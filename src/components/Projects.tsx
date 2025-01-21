@@ -1,29 +1,30 @@
 import ProjectCard from './atoms/ProjectCard'
 
 export const projects = [
+  // Update this with your own projects or change the functionality so you can POST and GET them from the DB 
   {
-    title: "Testers Academy",
-    description: "A web app for ISTQB certification prep with interactive sample tests, answer explanations, and instant feedback.",
-    technologies: ["Next.js", "React", "Tailwind CSS", "MongoDB"],
-    liveUrl: "https://www.testersacademy.com/"
+    title: "Weather Analytics Dashboard",
+    description: "A real-time weather monitoring dashboard built with React and D3.js. Features interactive data visualization and historical weather pattern analysis.",
+    technologies: ["React", "D3.js", "Node.js", "Express"],
+    githubUrl: "https://github.com"
   },
   {
-    title: "Foundry Smart Contract Loterry",
-    description: "A decentralized and automated raffle system built with Foundry that uses Chainlink VRF and Chainlink Automation for trustless execution.",
-    technologies: ["Foundry", "Solidity", "React"],
-    githubUrl: "https://github.com/VahagnCh/Foundry-Smart-Contract-Lottery"
+    title: "Task Management API",
+    description: "RESTful API service for task management with authentication, real-time notifications, and team collaboration features.",
+    technologies: ["Node.js", "Express", "MongoDB", "Socket.io"],
+    githubUrl: "https://github.com"
   },
   {
-    title: "Personal Portfolio",
-    description: "A modern portfolio website built with Next.js and Tailwind CSS. Features blog integration with Hashnode API and contact form with email notifications.",
-    technologies: ["Next.js", "TypeScript", "Tailwind CSS", "MongoDB"],
-    githubUrl: "https://github.com/VahagnCh/personal-portfolio",
+    title: "Recipe Finder App",
+    description: "Mobile-first web application for discovering and sharing recipes. Includes ingredient-based search, meal planning, and social sharing features.",
+    technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Firebase"],
+    githubUrl: "https://github.com"
   },
   {
-    title: "Discord Bot",
-    description: "Discord bot built with Python to send real-time alerts when in-game bosses spawn, keeping players informed and ready.",
-    technologies: ["Python", "Discord.py", "MongoDB"],
-    githubUrl: "https://github.com/VahagnCh/DiscordBot"
+    title: "Budget Tracker",
+    description: "Personal finance management tool with expense categorization, budget planning, and visualization of spending patterns.",
+    technologies: ["React", "Redux", "Chart.js", "Firebase"],
+    githubUrl: "https://github.com"
   },
   // Add more projects as needed
 ]

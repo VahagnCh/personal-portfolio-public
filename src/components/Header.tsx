@@ -41,7 +41,8 @@ const Header = () => {
     `}>
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         <div className="logo">
-          <Link href="/" className="text-2xl font-bold">VC</Link>
+          // Add here your initials or logo
+          <Link href="/" className="text-2xl font-bold">XXX</Link>
         </div>
         
         {/* Hamburger Menu Button */}

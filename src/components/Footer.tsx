@@ -104,7 +104,7 @@ const Footer = () => {
             <h2 className="text-3xl font-bold mb-6">Social Media</h2>
             <div className="space-y-4">
               <a
-                href="https://wa.me/522223375683?text=Hi%20Vahagn%2C%20I%20saw%20your%20portfolio%20and%20I%20would%20like%20to%20connect%20with%20you."
+                href="https://wa.me/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-gray-600"
@@ -112,7 +112,7 @@ const Footer = () => {
                 <FaWhatsapp size={24} /> WhatsApp
               </a>
               <a 
-                href="https://github.com/VahagnCh" 
+                href="https://github.com/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-gray-600"
@@ -120,7 +120,7 @@ const Footer = () => {
                 <FaGithub size={24} /> GitHub
               </a>
               <a 
-                href="https://www.linkedin.com/in/vahagnc/" 
+                href="https://www.linkedin.com/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-gray-600"
@@ -128,15 +128,15 @@ const Footer = () => {
                 <FaLinkedin size={24} /> LinkedIn
               </a>
               <a 
-                href="https://x.com/VahagnCha" 
+                href="https://x.com/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-gray-600"
               >
-                <FaXTwitter size={24} /> @VahagnCha
+                <FaXTwitter size={24} /> XTwitter
               </a>
               <a
-                href="https://www.instagram.com/vahagnch/"
+                href="https://www.instagram.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-gray-600"
@@ -149,7 +149,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="text-center mt-20 pt-8 border-t border-gray-400">
-          <p>&copy; {new Date().getFullYear()} Vahagn Chavushyan. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Update this text.</p>
         </div>
       </div>
     </footer>

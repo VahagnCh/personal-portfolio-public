@@ -6,38 +6,40 @@ const Services = () => {
    {/* Remmember to switch this to your own services*/}
     const services = [
     {
-      title: "Software Development",
+      title: "Web Development",
       description: {
-        text: "Developing tailored software solutions to meet specific client needs such as:",
+        text: "Full-stack web development services including:",
         points: [
-          "CRM systems",
-          "Ecommerce",
-          "ERP tools",
-          "Other business applications"
-        ]
-      },
-      Icon: BsDatabase
-    },
-    {
-      title: "Blockchain Development",
-      description: {
-        text: "Specialized in blockchain solutions including:",
-        points: [
-          "Developing smart contracts using Ethereum, Solana, or other technologies",
-          "Building decentralized applications (dApps)",
-          "NFT marketplace development"
+          "Responsive web applications",
+          "Progressive Web Apps (PWA)",
+          "E-commerce solutions",
+          "Custom web portals"
         ]
       },
       Icon: FaCode
     },
     {
-      title: "Consultation and Training",
+      title: "Cloud Solutions",
       description: {
-        text: "Providing consultation for software architecture, tech stack, or project planning.",
+        text: "Cloud infrastructure and deployment services including:",
         points: [
-          "Project planning",
-          "Software architecture",
-          "Tech stack",
+          "Cloud architecture design",
+          "Serverless applications",
+          "Microservices deployment",
+          "DevOps automation"
+        ]
+      },
+      Icon: BsDatabase
+    },
+    {
+      title: "Mobile Development",
+      description: {
+        text: "Cross-platform mobile application development including:",
+        points: [
+          "iOS and Android apps",
+          "React Native development",
+          "Mobile UI/UX design",
+          "App maintenance & updates"
         ]
       },
       Icon: GiTeacher

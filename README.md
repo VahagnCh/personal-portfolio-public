@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website built with Next.js 14, TypeSc
 
 ## Design Credits
 
-This project's design is inspired by give him some love [Ridho's Personal Website Design](https://www.figma.com/community/file/1170209364280593871/single-page-personal-web) from Figma Community. Full credit for the design goes to Ridho.
+This project's design is inspired by [Ridho's Personal Website Design](https://www.figma.com/community/file/1170209364280593871/single-page-personal-web) from Figma Community. Full credit for the design goes to Ridho.
 
 ## Tech Stack
 
@@ -17,11 +17,11 @@ This project's design is inspired by give him some love [Ridho's Personal Websit
 
 ## Features
 
-- 🎨 Clean and Modern Design
+- 🎨 Clean and Minimalistic Design
 - 📱 Fully Responsive
 - 🌙 Dark Theme
 - ⚡ Fast Performance
-- 🎯 SEO Optimized
+- 🎯 SEO Optimized (You will have to add your own SEO optimization)
 - 🧩 Reusable Components
 - 💾 MongoDB Integration
 - 📧 Contact Form with Resend

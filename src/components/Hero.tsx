@@ -13,7 +13,8 @@ const Hero = () => {
             Hello
           </h1>
           <h2 className="text-4xl font-bold mb-4">
-            I&apos;m Vahagn
+            // Add here your name
+            I&apos;m Your Friend
           </h2>
           <p className="text-gray-600 mb-8">
             Software Developer and web3 enthusiast
@@ -25,7 +26,7 @@ const Hero = () => {
         <div className="md:w-1/2 relative">
           <div className="bg-[#212529] rounded-full w-[300px] h-[300px] md:w-[400px] md:h-[400px] relative overflow-hidden">
             <Image
-              src="https://github.com/VahagnCh.png"
+              src="https://github.com/github.png"
               alt="Profile"
               fill
               className="object-cover"

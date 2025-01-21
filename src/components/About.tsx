@@ -24,15 +24,16 @@ const About = () => {
           {/* Right side - Content switch this to your own content*/}
           <div className="md:w-2/3">
             <p className="text-gray-600 mb-6 text-center md:text-left">
-              I am a passionate Software Developer with expertise in web development and blockchain technologies. 
-              With a strong foundation in modern development practices and a keen interest in emerging technologies, 
-              I strive to create efficient and innovative solutions for complex problems.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor 
+              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+              exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
             </p>
             
             <p className="text-gray-600 mb-8 text-center md:text-left">
-              My experience spans across various domains including <strong>full-stack development, </strong>
-              <strong>smart contract development</strong>, and <strong>software architecture</strong>. I&apos;m constantly learning 
-              and adapting to new technologies to deliver the best possible solutions.
+              Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat 
+              nulla pariatur. Excepteur sint occaecat <strong>cupidatat non proident</strong>, sunt in 
+              <strong>culpa qui officia</strong> deserunt mollit <strong>anim id est laborum</strong>. 
+              Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
             </p>
 
             <div className="flex gap-4 justify-center md:justify-start">
@@ -42,7 +43,7 @@ const About = () => {
               <Link href="/projects">
                 <Button variant="solid">Projects</Button>
               </Link>
-              <Link href="https://www.linkedin.com/in/vahagnc/" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline">View CV</Button>
               </Link>
             </div>

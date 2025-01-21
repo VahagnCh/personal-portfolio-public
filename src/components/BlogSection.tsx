@@ -18,7 +18,8 @@ export default async function BlogSection() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="flex justify-between items-center mb-12">
             <h2 className="text-4xl font-bold">Latest Articles</h2>
-            <Link href="https://stt.hashnode.dev" target="_blank" rel="noopener noreferrer">
+            // Add here your own hashnode link
+            <Link href="https://hashnode.dev" target="_blank" rel="noopener noreferrer">
               <Button variant="outline">View All Posts</Button>
             </Link>
           </div>
